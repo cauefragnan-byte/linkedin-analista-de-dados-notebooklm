@@ -108,3 +108,39 @@ Termo utilizado para facilitar a localização do perfil em pesquisas.
 ### Networking
 
 > Crie uma mensagem profissional para conexão com recrutadores da área de Dados.
+
+## Curadoria de Fontes
+
+### Fonte 1
+
+Vídeo: Como criar um LinkedIn atrativo para conquistar oportunidades na área de tecnologia
+https://www.youtube.com/watch?v=nrNvMFCHMpI
+
+### Fonte 2
+
+Vídeo: Estratégias para otimizar seu perfil LinkedIn e aumentar sua visibilidade profissional
+https://www.youtube.com/watch?v=rH_k0HX1SHs
+
+### Fonte 3
+
+Vídeo: Dicas práticas para melhorar seu networking e posicionamento no LinkedIn
+https://www.youtube.com/watch?v=uK2Gm9RzZfc
+
+### Fonte 4
+
+Artigo: 11 IAs para potencializar sua presença no LinkedIn e impulsionar sua empregabilidade
+https://www.go.senac.br/noticias/11-ias-para-potencializar-sua-presenca-no-linkedin-e-impulsionar-sua-empregabilidade/
+
+### Fonte 5
+
+Vídeo: Boas práticas para construção de um perfil profissional atrativo no LinkedIn
+https://www.youtube.com/watch?v=EnmOzGWdrwA
+
+---
+
+## NotebookLM Utilizado
+
+Notebook desenvolvido para reunir, organizar e sintetizar os conteúdos estudados sobre otimização de perfis LinkedIn para profissionais da área de Dados.
+
+Link do NotebookLM:
+https://notebooklm.google.com/notebook/07d4cb1e-a184-4589-ac83-a22ed1e2f337
